@@ -1,9 +1,9 @@
 <h1 align="center">nice to meet you, i'm hamad</h1>
 <h3 align="center">full stack developer, also interested in learning new tech everyday</h3>
 
-- 🔭 i’m currently working on **finetuning bart model for research papers**
+- 🔭 i’m currently working on **community staking platform**
 
-- 🌱 i’m currently learning **zk and devops**
+- 🌱 i’m currently learning **advanced cs**
 
 - 👯 i’m looking to collaborate on **interesting projects on ai/ml and blockchain**
 
