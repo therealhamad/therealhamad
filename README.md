@@ -1,15 +1,15 @@
 <h1 align="center">nice to meet you, i'm hamad</h1>
 <h3 align="center">full stack developer, also interested in learning new tech everyday</h3>
 
-- 🔭 i’m currently working on **community staking platform**
+- 🔭 i’m currently working on **finance management platform**
 
-- 🌱 i’m currently learning **advanced cs**
+- 🌱 i’m currently learning **nestjs**
 
 - 👯 i’m looking to collaborate on **interesting projects on ai/ml and blockchain**
 
 - 📫 wanna reach me out **hamadkkr3@gmail.com**
 
-- ⚡ **fun fact: prefer to be jack of all trades...**
+- ⚡ **prefer to be jack of all trades...**
 
 <h3 align="left">Let's Connect</h3>
 
